@@ -1,0 +1,13 @@
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\bin\Debug\netcoreapp3.1\GCHomework.exe
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\bin\Debug\netcoreapp3.1\GCHomework.deps.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\bin\Debug\netcoreapp3.1\GCHomework.runtimeconfig.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\bin\Debug\netcoreapp3.1\GCHomework.runtimeconfig.dev.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\bin\Debug\netcoreapp3.1\GCHomework.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\bin\Debug\netcoreapp3.1\GCHomework.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\obj\Debug\netcoreapp3.1\GCHomework.csprojAssemblyReference.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\obj\Debug\netcoreapp3.1\GCHomework.csproj.CoreCompileInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\obj\Debug\netcoreapp3.1\GCHomework.AssemblyInfoInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\obj\Debug\netcoreapp3.1\GCHomework.AssemblyInfo.cs
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\obj\Debug\netcoreapp3.1\GCHomework.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\obj\Debug\netcoreapp3.1\GCHomework.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCHomework\GCHomework\obj\Debug\netcoreapp3.1\GCHomework.genruntimeconfig.cache
